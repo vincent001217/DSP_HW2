@@ -8,6 +8,8 @@
 
 * Create a folder named “result”.
 
-* ./autorun2.sh
+* Command line: ./autorun2.sh
+
+### Footnote
 
 * For more details, please refer to the file dsp_hw2-1.pdf.
